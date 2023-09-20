@@ -1,0 +1,2 @@
+DNI Beneficiario,Número de Cuenta,Tipo de Cuenta,Número de Ruta,Monto Total
+40234331284,035,CORRIENTE,02345,0254
